@@ -1,1 +1,1 @@
-Hi this is sample git text file original
+Hi this is sample git text file original in another
